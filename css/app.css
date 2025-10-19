@@ -153,7 +153,7 @@ MAIN
   position: relative;
   z-index: 1;
   grid-column: span 2;
-  background-color: var(--color-purple-500);
+  --bg-color: var(--color-purple-500);
 }
 
 .card-testimonials:nth-of-type(5n+1) .card-testimonials__avatar {
@@ -173,12 +173,12 @@ MAIN
 }
 
 .card-testimonials:nth-of-type(5n+2) {
-  background-color: var(--color-grey-500);
+  --bg-color: var(--color-grey-500);
 }
 
 .card-testimonials:nth-of-type(5n+5) {
   grid-column: span 2;
-  background-color: var(--color-dark-blue);
+  --bg-color: var(--color-dark-blue);
 }
 
 .card-testimonials:nth-of-type(5n+5) .card-testimonials__avatar {
