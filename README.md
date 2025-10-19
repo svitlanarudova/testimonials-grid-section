@@ -1,4 +1,4 @@
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-4BC0F0?logo=frontendmentor&logoColor=white) ![#87](https://img.shields.io/badge/%238-red) [![Live Preview](https://img.shields.io/badge/Live-Preview-green)]()
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-4BC0F0?logo=frontendmentor&logoColor=white) ![#87](https://img.shields.io/badge/%238-red) [![Live Preview](https://img.shields.io/badge/Live-Preview-green)](https://svitlanarudova.github.io/testimonials-grid-section/)
 
 # Frontend Mentor - Testimonials grid section
 ![Design preview for the Testimonials grid section](./preview.jpg)
